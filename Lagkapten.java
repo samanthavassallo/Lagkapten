@@ -208,20 +208,5 @@ public class Lagkapten {
 
 
 
-/* outline
 
-rules = Melltorp beats Utespelare, Olserod
-Utespelare beats Knarrevik, Yngvar
-Knarrevik beats Melltorp, Olserod
-Olserod Beats Yngvar, Utespelare
-Yngvar beats Melltorp, Knarrevik
 
-porint out the rules and then use a scanner to see if the user wants to play
-create a function for the game that prompts the user with who they want to play as. this will also
-make sure any invalid inputs are deteced and promts the user again. after the user inputs there choice we have to have the computer pick.
-to do that we need to assign the computer choices to a number and then create a funcation that assigns that cimputer random choice to the option.
-Then we have to create a funcation that deciceds the winner based off user and computer input. then creat a function to prompt the user if they 
-want to play again. If they play again call the function thats runs the game. if they do not want to play again use a compilers to print
-out the rounds played, the computers wins and the user wins. 
-
-*/
